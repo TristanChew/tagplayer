@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Replace with your app icon / logo -->
 <img src="https://placehold.co/160x160/0D1530/5B8CFF?text=TP" alt="Tag Player logo" width="120" />
 
 # 🎵 Tag Player
 
-**A fast music player for Android that lets you tag every song and build playlists with real logic:  
-"rock OR jazz, but NOT live, NOT punk."**
+**An offline fast music player for Android that lets you have full control over every aspect of the entire system, with built in additional features that you never know you needed until now!"**
 
 [![Platform](https://img.shields.io/badge/platform-Android%208.0%2B-3DDC84?logo=android&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)](#)
@@ -68,7 +66,7 @@ Most music apps sort by artist and album. Real music libraries are messier than 
 - 🐢🐇 **Speed control** from 0.5× to 2× with a slider and presets
 - 🎚️ **5-band equaliser** (60 Hz to 14 kHz, ±12 dB) with presets. It runs *before* volume normalisation and adds automatic headroom, so boosting the bass never clips or distorts
 - 🔁 **Loop a section:** set point **A** and point **B** and repeat any part of a song
-- Large **song card** shown while playing
+- Large customizable **song card** shown while playing
 - **Automatic volume normalisation** that boosts quiet songs and softens loud ones before they play (can be switched off in Settings)
 
 ### 🏷️ Tags: the heart of the app
@@ -101,7 +99,7 @@ playlist:"road trip" OR #chill
 | `is:fav` | starred songs only |
 | `AND` `OR` `NOT` `( )` | combine anything (`NOT` > `AND` > `OR`) |
 
-Excluding one specific song is one tap: choose **Exclude from filter** in the song's menu while using the logic builder.
+Control exclusions and inclusions of specific songs, tags, playlist, and many more types, all with just a few taps.
 
 ### ↕️ Sorting
 Sort by **name, artist, playlist, date added, length or most played**, ascending or descending. ⭐ Favourites always stay on top.
@@ -110,10 +108,10 @@ Sort by **name, artist, playlist, date added, length or most played**, ascending
 - Create, **rename** and delete playlists
 - ⭐ **Favourite** playlists to keep them at the top
 - 🖐️ **Drag to reorder** songs freely inside a playlist, or jump a song to the top, bottom or any position. Your order is yours and is never changed by filters or favourites
-- Save any search result or timed mix as a playlist in one tap
+- Save any search result, logic builder, or timed mix as a playlist in one tap
 
 ### ⏱️ Timed Mix
-Pick a length from 5 minutes to 4 hours and Tag Player randomly builds a playlist that lands **as close to that time as possible**. Combine it with the same AND / OR / NOT logic, for example *"60 minutes of `#chill` but NOT `#live`"*. Re-roll as often as you like.
+Pick a length from 5 minutes to 4 hours and Tag Player randomly builds a playlist that lands **as close to that time as possible**. Exclude or include specific songs, tags, playlist, and many more types from the mix, and re-roll as often as you like.
 
 ### ⭐ Favourite priority (adjustable chance)
 Star the songs you love. In **Settings**, a **0–100% slider** sets the chance that each next song is picked from your favourites. It applies to shuffle and to timed mixes, even for the very first song. Set it to 0% to turn the feature off.
@@ -124,11 +122,11 @@ Star the songs you love. In **Settings**, a **0–100% slider** sets the chance 
 - Attach cards to **songs and playlists**; they appear on the player and in lists
 
 ### 🎮 FUN :) tab
-Four tabs in one place:
+Four additional fun element tabs in one place:
 - 🏆 **Top 10:** your most-listened songs, ranked by real play counts
-- 🎧 **Guess:** hear the first **1–5 seconds** of a random song, then press **Reveal**. It goes on endlessly until you quit
+- 🎧 **Guess:** hear the first **1–5 seconds** of a random song, then guess what song it is. It goes on endlessly until you quit
 - 📻 **Radio:** an **FM / AM dial** powered by the [Radio Browser](https://www.radio-browser.info/) directory. Drag the slider to tune, with a quiet static effect while you turn the dial, or jump between stations with PREV / NEXT. Stations keep playing in the background
-- 🏅 **Achievements:** twelve **secret** achievements, a homage to some favourite games. Each one shows only a cryptic riddle until you unlock it. Good luck 🤫
+- 🏅 **Achievements:** twelve **secret** achievements, a homage to some of my favourite games. Each one shows only a cryptic riddle until you unlock it. Good luck 🤫
 
 ### 🌈 Themes and interface styles
 - **21 free colour themes:** the original blue, **10 night** themes and **10 light** themes
@@ -151,7 +149,7 @@ Four tabs in one place:
 
 ## 📲 Install
 
-1. Download the latest **APK** from the [Releases](../../releases) page *(placeholder: add your link)*
+1. Download the latest **APK** from the [Releases](../../releases) page
 2. Open it on your phone and allow *"Install unknown apps"* if asked
 3. Open Tag Player, tap the 📂 folder icon, and choose your music folder
 
@@ -159,21 +157,7 @@ Four tabs in one place:
 
 ---
 
-## 🛠️ Build from source
-
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-```
-
-1. Open the project in **Android Studio** (latest stable)
-2. Let Gradle sync
-3. **Build → Build APK(s)**, then find it at `app/build/outputs/apk/debug/app-debug.apk`
-
-**Optional media (not included in the repo):** the secret features load their own sounds and pictures from `res/raw/` and `res/drawable/` if you add them. Without them they simply stay silent and use simple drawn placeholders.
-
-**Optional, to lock the font:** download [Roboto](https://fonts.google.com/specimen/Roboto) and place `roboto_regular.ttf`, `roboto_medium.ttf` and `roboto_bold.ttf` in `app/src/main/res/font/` (lowercase names).
-
-### Tech stack
+## 🛠️ Tech stack
 - **Kotlin** + **Jetpack Compose** (Material 3)
 - **Media3 / ExoPlayer** for playback, streaming and the background service
 - **Room** database for tags, playlists, favourites, cards and play counts
@@ -201,17 +185,6 @@ If Tag Player makes your listening nicer, you can support its development:
 
 ---
 
-## 🗺️ Roadmap ideas
-- [ ] Backup & restore tags and playlists
-- [ ] Auto-scroll while dragging in long playlists
-- [ ] Sleep timer
-- [ ] Home-screen widget
-- [ ] More interface styles
-
 Suggestions and pull requests are welcome. Open an [issue](../../issues) to start a conversation.
 
 ---
-
-## 📄 License
-
-Add your licence here (for example MIT), and replace this line.

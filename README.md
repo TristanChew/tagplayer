@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://placehold.co/160x160/0D1530/5B8CFF?text=TP](https://github.com/TristanChew/tagplayer/blob/main/Screenshots/ic_launcher.webp?raw=true)" />
+<img src="https://github.com/TristanChew/tagplayer/blob/main/Screenshots/ic_launcher.webp?raw=true" />
 
 # 🎵 Tag Player
 

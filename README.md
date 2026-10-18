@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/TristanChew/tagplayer/blob/main/Screenshots/app%20icon.jpeg?raw=true" />
+<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/194a35da-9243-458d-8f6c-dcbc22ed8523" />
+
 
 # 🎵 Tag Player
 

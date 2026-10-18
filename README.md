@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/TristanChew/tagplayer/blob/main/Screenshots/ic_launcher.webp?raw=true" />
+<img src="https://github.com/TristanChew/tagplayer/blob/main/Screenshots/app%20icon.jpeg?raw=true" />
 
 # 🎵 Tag Player
 

@@ -34,19 +34,36 @@ Most music apps sort by artist and album. Real music libraries are messier than 
 
 <div align="center">
 
-<!-- Swap these placeholders for real screenshots, e.g. docs/screenshots/library.png -->
-| Library | Now Playing |
+
+| Library | Now Playing | Equaliser |
 |:---:|:---:|:---:|
 | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/74c42dc9-ab4b-4850-9aa0-a029e00f7ea2" />
  | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/1735fdb8-c375-4171-ba51-ee74b1768c17" /> |
+ <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/b20380ce-9ed3-4f35-a128-bf28400fd981" />|
 
 | Playlists | Timed Mix | Radio |
 |:---:|:---:|:---:|
-| <img src="https://placehold.co/270x580/0D1530/5B8CFF?text=Playlists" width="200"/> | <img src="https://placehold.co/270x580/0D1530/FFC857?text=Timed+Mix" width="200"/> | <img src="https://placehold.co/270x580/0D1530/FF6B8A?text=Radio" width="200"/> |
+| <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/d67cc988-577d-4453-83d4-8d529651a72a" />
+ | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/89227a2d-f6dc-430a-9847-1e806943e823" />
+ | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/619a3b38-88f0-4f94-9d29-c244bd2bbb2e" />
+|
 
-| Equaliser | Achievements | Themes |
-|:---:|:---:|:---:|
-| <img src="https://placehold.co/270x580/0D1530/9B7BFF?text=Equaliser" width="200"/> | <img src="https://placehold.co/270x580/0D1530/4FD1FF?text=Achievements" width="200"/> | <img src="https://placehold.co/270x580/0D1530/FFC857?text=Themes" width="200"/> |
+<table>
+  <tr>
+    <th colspan="4" align="center"><b>Themes</b></th>
+  </tr>
+  <tr>
+    <td><img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/7b320fd7-91e5-4cca-a839-48cac1c8f853" />
+</td>
+    <td><img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/c8e23313-f485-4276-a8bd-849f9fa61b14" />
+</td>
+    <td><img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/86c21ba2-51e1-46ee-ba2e-4a00b46f249c" />
+</td>
+    <td><img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/02f6a88e-dd3a-4241-aec5-0cabc9f95ee7" />
+</td>
+  </tr>
+</table>
+
 
 </div>
 

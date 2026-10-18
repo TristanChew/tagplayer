@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/194a35da-9243-458d-8f6c-dcbc22ed8523" />
+<img width="140" height="140" alt="image" src="https://github.com/user-attachments/assets/194a35da-9243-458d-8f6c-dcbc22ed8523" />
 
 
 # 🎵 Tag Player
@@ -37,7 +37,8 @@ Most music apps sort by artist and album. Real music libraries are messier than 
 <!-- Swap these placeholders for real screenshots, e.g. docs/screenshots/library.png -->
 | Library | Now Playing | Logic Builder |
 |:---:|:---:|:---:|
-| <img src="https://placehold.co/270x580/0D1530/5B8CFF?text=Library" width="200"/> | <img src="https://placehold.co/270x580/0D1530/4FD1FF?text=Now+Playing" width="200"/> | <img src="https://placehold.co/270x580/0D1530/9B7BFF?text=Logic+Builder" width="200"/> |
+| <img width="720" height="1532" alt="image" src="https://github.com/user-attachments/assets/74c42dc9-ab4b-4850-9aa0-a029e00f7ea2" />
+ | <img src="https://placehold.co/270x580/0D1530/4FD1FF?text=Now+Playing" width="200"/> | <img src="https://placehold.co/270x580/0D1530/9B7BFF?text=Logic+Builder" width="200"/> |
 
 | Playlists | Timed Mix | Radio |
 |:---:|:---:|:---:|

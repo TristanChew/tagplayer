@@ -37,16 +37,11 @@ Most music apps sort by artist and album. Real music libraries are messier than 
 
 | Library | Now Playing | Equaliser |
 |:---:|:---:|:---:|
-| <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/74c42dc9-ab4b-4850-9aa0-a029e00f7ea2" />
- | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/1735fdb8-c375-4171-ba51-ee74b1768c17" /> |
- <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/b20380ce-9ed3-4f35-a128-bf28400fd981" />|
+| <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/74c42dc9-ab4b-4850-9aa0-a029e00f7ea2" /> | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/1735fdb8-c375-4171-ba51-ee74b1768c17" /> | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/b20380ce-9ed3-4f35-a128-bf28400fd981" />|
 
 | Playlists | Timed Mix | Radio |
 |:---:|:---:|:---:|
-| <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/d67cc988-577d-4453-83d4-8d529651a72a" />
- | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/89227a2d-f6dc-430a-9847-1e806943e823" />
- | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/619a3b38-88f0-4f94-9d29-c244bd2bbb2e" />
-|
+| <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/d67cc988-577d-4453-83d4-8d529651a72a" /> | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/89227a2d-f6dc-430a-9847-1e806943e823" /> | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/619a3b38-88f0-4f94-9d29-c244bd2bbb2e" />|
 
 <table>
   <tr>

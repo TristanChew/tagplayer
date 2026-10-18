@@ -35,10 +35,10 @@ Most music apps sort by artist and album. Real music libraries are messier than 
 <div align="center">
 
 <!-- Swap these placeholders for real screenshots, e.g. docs/screenshots/library.png -->
-| Library | Now Playing | Logic Builder |
+| Library | Now Playing |
 |:---:|:---:|:---:|
 | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/74c42dc9-ab4b-4850-9aa0-a029e00f7ea2" />
- | <img src="https://placehold.co/270x580/0D1530/4FD1FF?text=Now+Playing" width="200"/> | <img src="https://placehold.co/270x580/0D1530/9B7BFF?text=Logic+Builder" width="200"/> |
+ | <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/1735fdb8-c375-4171-ba51-ee74b1768c17" /> |
 
 | Playlists | Timed Mix | Radio |
 |:---:|:---:|:---:|
